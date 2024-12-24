@@ -1,1 +1,0 @@
-size smiles gsk3b qed sa qed sa max_or_val 
